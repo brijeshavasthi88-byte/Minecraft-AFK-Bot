@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "stamina-institutes.tun.ply.gg",
+  "serverPort": 13197,
+  "botUsername": "AFK_kunn",
   "botChunk": 1
 }
